@@ -1,1 +1,6 @@
-# Swing-calculator---U23MTE70
+# Swing-calculator---U23MTE1070
+
+NAME: HASSAN JOSIAH YAMAI
+MATRIC NO.:U23MTE1070
+DEPARTMENT: MECHATRONICS 
+USERNAME: josiah-neitizen 
